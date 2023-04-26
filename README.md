@@ -1,6 +1,6 @@
 <h1 style="color: #8c00ff;"> 👨🏿‍💻 Jordan Rafael</h1>
 
-![gif](https://user-images.githubusercontent.com/61181764/234647551-d1dc6434-8306-4e27-974d-ae826af4d0fa.gif)
+![gif](https://user-images.githubusercontent.com/61181764/234648176-b3881d6a-445b-4ce4-ade7-1cb339ad06a3.gif)
 
 # Sobre mim
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
