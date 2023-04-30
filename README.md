@@ -63,6 +63,11 @@ Estou entusiasmado em fazer parte do mundo da tecnologia e estou ansioso para co
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend](https://ytcards.demolab.com/?id=eob57VtyspQ&title=como+subir+meus+projetos+no+Github&lang=pt&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Como subir meus projetos para o GitHub
 ")](https://www.youtube.com/watch?v=eob57VtyspQ&t=5s)
+    
+[![Aprenda a criar um favicon](https://ytcards.demolab.com/?id=zdYLS65-P6E&title=Aprenda+a+criar+um+favicon&lang=pt&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250)](https://www.youtube.com/watch?v=zdYLS65-P6E)
+
+    
+    
 
 
 <!-- END YOUTUBE-CARDS -->
