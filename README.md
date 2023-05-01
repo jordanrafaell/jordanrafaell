@@ -48,6 +48,12 @@ Estou entusiasmado em fazer parte do mundo da tecnologia e estou ansioso para co
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+  </a>
+     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235502393-399dfc4a-3530-4a29-86a0-ef04406a51d4.svg"/> 
+  </a>
 </div>
 <br>
 <br>
