@@ -42,6 +42,7 @@ Estou entusiasmado em fazer parte do mundo da tecnologia e estou ansioso para co
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
+<br>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
@@ -93,20 +94,31 @@ Estou entusiasmado em fazer parte do mundo da tecnologia e estou ansioso para co
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
+<div class="stats" align="center">
+    
+<br>
+<br>
+<img src="https://wakatime.com/share/@DevJordan/13d54c82-57d9-4fab-bdeb-0229688388c7.svg" height="600px" align="center">
+    
+<br>
+<br>
+    
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
+    
+<br>
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
+<br>
 <div class="stats" align="center">
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanrafaell&hide=stars&count_private=true&show_icons=true&theme=algolia&outrun=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jordanrafaell&count_private=true&theme=algolia&shades-of-purple=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?jordanrafael=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanrafaell&layout=compact&show_icons=true&theme=algolia&border_radius=20)
@@ -121,7 +133,7 @@ Estou entusiasmado em fazer parte do mundo da tecnologia e estou ansioso para co
     <a href="https://bit.ly/3L1TPbd" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
     </a>
-    <a href="mailto:jordanrafaelflorencio@gmail.com" target="_blank">
+    <a href="mailto:contatodevjordan@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
