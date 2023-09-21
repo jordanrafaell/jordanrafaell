@@ -113,6 +113,8 @@ Estou entusiasmado em fazer parte do mundo da tecnologia e estou ansioso para co
 <br>
     
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
     
 <br>
 <!-- Begin Stats Cards -->
