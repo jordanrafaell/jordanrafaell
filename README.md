@@ -5,7 +5,7 @@
 # Sobre mim
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
-Sou um desenvolvedor web apaixonado e criativo. Estou me especializado em Front-end e pretendo ser um Full-Stack.
+Sou um desenvolvedor web apaixonado e criativo. Estou me especializado em Front-end e aspirante a Full-Stack.
 
 Meu objetivo é criar soluções inovadoras e atraentes para os meus projetos. Além disso, adoro ensinar programação, pois acredito que isso pode empoderar as pessoas a alcançar seu pleno potencial e viver uma vida melhor. É por isso que ocasionalmente posto vídeos sobre programação e tecnologia.
 
