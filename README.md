@@ -5,13 +5,13 @@
 # Sobre mim
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
-Sou um desenvolvedor web apaixonado e criativo. Estou me especializado em Front-end e aspirante a Full-Stack.
+Sou um desenvolvedor web apaixonado e criativo. Estou me especializando em Front-end e aspirante a Full-Stack.
 
 Meu objetivo é criar soluções inovadoras e atraentes para os meus projetos. Além disso, adoro ensinar programação, pois acredito que isso pode empoderar as pessoas a alcançar seu pleno potencial e viver uma vida melhor. É por isso que ocasionalmente posto vídeos sobre programação e tecnologia.
 
-Fora do mundo da programação, sou uma pessoa bastante extrovertido, praticando alguns esportes como Basquete ⛹🏾‍♂️. Adoro desenhar compor algumas poesias e estudar programação sempre que tenho a oportunidade. Também gosto de usar o Canva para criar designs ou editar imagens quando tenho ideias para sites ou projetos.
+Fora do mundo da programação, sou uma pessoa bastante extrovertida, praticando alguns esportes como Basquete ⛹🏾‍♂️. Adoro desenhar e compor algumas poesias e estudar programação sempre que tenho a oportunidade. Também gosto de usar o Canva para criar designs ou editar imagens quando tenho ideias para sites ou projetos.
 
-Estou motivado por desafios que me permitem desenvolver minhas habilidades de programação e design, bem como por projetos que fazem a diferença na vida das pessoas. Acredito que a tecnologia tem o poder de transformar o mundo para melhor, e estou empenhado em fazer minha parte para contribuir para essa transformação. Através do meu trabalho como desenvolvedor, quero ser capaz de criar produtos e soluções que tornem a vida das pessoas mais fácil e eficiente.
+Estou motivado por desafios que me permitem desenvolver minhas habilidades de programação e design, bem como por projetos que fazem a diferença na vida das pessoas. Acredito que a tecnologia tem o poder de transformar o mundo para melhor, e estou empenhado em fazer minha parte para contribuir para essa transformação. Através do meu trabalho como programador, quero ser capaz de criar produtos e soluções que tornem a vida das pessoas mais fácil e eficiente.
 <br>
 <div align="center">
 </div>
