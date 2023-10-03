@@ -118,7 +118,7 @@ Estou motivado por desafios que me permitem desenvolver minhas habilidades de pr
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
+<!-- Change the value after ?username= to your GitHub username -->
 <br>
 <div class="stats" align="center">
 
