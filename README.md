@@ -31,14 +31,14 @@ Estou motivado por desafios que me permitem desenvolver minhas habilidades de pr
   <a href="#" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
   <a href=#" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
 <br>
   <a href="#" target="_blank" rel="noreferrer">
@@ -53,17 +53,12 @@ Estou motivado por desafios que me permitem desenvolver minhas habilidades de pr
    <a href="#/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
-     <a href="#/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235502393-399dfc4a-3530-4a29-86a0-ef04406a51d4.svg"/> 
+    
+  <a href="#" target="_blank" rel="noreferrer">
+      <img  alt="CodePen" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235529002-cf33fa7c-9d32-486d-b187-f1bf31208a60.svg"/> 
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235529002-cf33fa7c-9d32-486d-b187-f1bf31208a60.svg"/> 
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235529006-4956223c-91a3-4dbc-9335-9dc5375e7676.svg"/> 
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="60px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235529022-31d90c8b-efaf-4b5e-b456-a291a2646d71.svg"/> 
+      <img  alt="Notion" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235529006-4956223c-91a3-4dbc-9335-9dc5375e7676.svg"/> 
   </a>
 </div>
 <br>
