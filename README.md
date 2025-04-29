@@ -27,10 +27,15 @@ Estou motivado por desafios que me permitem desenvolver minhas habilidades de pr
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+
+          
 <div align="center">
     <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Notion" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> 
-  </a>
+        <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img  alt="Notion" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> 
+    </a>
     <a href="#" target="_blank" rel="noreferrer">
       <img  alt="Notion" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
   </a>
