@@ -94,7 +94,7 @@ Nos momentos livres, dedico tempo ao autodesenvolvimento e aprimoramento pessoal
   <hr width="60%"/> 
   
   <br/>
-  <a href="https://portfolio-ten-pi-517mszirxj.vercel.app/" target="_blank" > 
+  <a href="https://devjordan.vercel.app/" target="_blank" > 
     <img align="center" src="https://img.shields.io/badge/🌐%20Portfólio%20Online-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a> 
   
@@ -127,7 +127,7 @@ Estou focado em entregar soluções que não apenas usem tecnologia, mas que res
   <a href="https://www.linkedin.com/in/jordan-rafael-474449328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-ten-pi-517mszirxj.vercel.app/" target="_blank">
+  <a href="https://devjordan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5511954378787&text=Quero+criar+um+projeto&type=phone_number&app_absent=0" target="_blank">
