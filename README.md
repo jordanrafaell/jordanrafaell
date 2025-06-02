@@ -154,7 +154,7 @@ Estou focado em entregar soluções que não apenas usem tecnologia, mas que res
 
 ---
 
-### 🐍 Snake Dev Animation
+### 🐍 Código em Movimento
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jordanrafaell/jordanrafaell/output/snake.svg" alt="Snake animation" />
