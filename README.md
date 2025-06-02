@@ -161,7 +161,3 @@ Estou focado em entregar soluções que não apenas usem tecnologia, mas que res
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://wakatime.com/share/@DevJordan/13d54c82-57d9-4fab-bdeb-0229688388c7.svg" height="400px" align="center" />
-</p>
