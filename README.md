@@ -1,189 +1,84 @@
-<h1 style="color: #8c00ff;"> 👨🏿‍💻 Jordan Rafael</h1>
+<h1 align="center" style="color:#8c00ff">👨🏿‍💻 Jordan Rafael</h1>
 
-![gif](https://user-images.githubusercontent.com/61181764/234648176-b3881d6a-445b-4ce4-ade7-1cb339ad06a3.gif)
-
-# Sobre mim
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-
-Sou um desenvolvedor web apaixonado e criativo. Estou me especializando em Front-end e aspirante a Full-Stack.
-
-Meu objetivo é criar soluções inovadoras e atraentes para os meus projetos. Além disso, adoro ensinar programação, pois acredito que isso pode empoderar as pessoas a alcançar seu pleno potencial e viver uma vida melhor. É por isso que ocasionalmente posto vídeos sobre programação e tecnologia.
-
-Fora do mundo da programação, sou muito extrovertido, Adoro desenhar e compor algumas poesias e estudar programação. Também gosto de usar o Canva para criar designs ou editar imagens quando tenho ideias para sites ou projetos.
-
-Estou motivado por desafios que me permitem desenvolver minhas habilidades de programação e design, bem como por projetos que fazem a diferença na vida das pessoas. Acredito que a tecnologia tem o poder de transformar o mundo para melhor, e estou empenhado em fazer minha parte para contribuir para essa transformação. Através do meu trabalho como programador, quero ser capaz de criar produtos e soluções que tornem a vida das pessoas mais fácil e eficiente.
-<br>
-<div align="center">
-</div>
-</p>    
-<br>
-<!-- Languages and Tools -->
-
-<h2 style="color: #44AEFB">⚙️ Habilidades e Ferramentas</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-
-          
-<div align="center">
-    <a href="#" target="_blank" rel="noreferrer">
-        <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img  alt="Notion" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> 
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Notion" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-    <br/>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-  </a>
-  <a href=#" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-<br>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-  </a>
-   <a href="#/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  </a>
-    
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="CodePen" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235529002-cf33fa7c-9d32-486d-b187-f1bf31208a60.svg"/> 
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-      <img  alt="Notion" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/61181764/235529006-4956223c-91a3-4dbc-9335-9dc5375e7676.svg"/> 
-  </a>
-</div>
-<br>
-<br>
-
-<!-- Latest YouTube Videos -->
-
-<h2 style="color: #44AEFB">🎦 Vídeos do YouTube</h2>
-<br />
-
-<!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" align="center">
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend](https://ytcards.demolab.com/?id=eob57VtyspQ&title=como+subir+meus+projetos+no+Github&lang=pt&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Como subir meus projetos para o GitHub
-")](https://www.youtube.com/watch?v=eob57VtyspQ&t=5s)
-    
-[![Aprenda a criar um favicon](https://ytcards.demolab.com/?id=zdYLS65-P6E&title=Aprenda+a+criar+um+favicon&lang=pt&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250)](https://www.youtube.com/watch?v=zdYLS65-P6E)
-
-    
-    
-
-
-<!-- END YOUTUBE-CARDS -->
-</div>
-
-<!-- Begin Youtube Buttons -->
-<!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
-<div class="youtube buttons" align="center">
-    <a href="https://bit.ly/3L1TPbd"  target="_blank">
-        <img alt="youtube subscribers" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a> 
-</div>
-<br>
-<!-- End Youtube Buttons -->
-
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-<div class="stats" align="center">
-    
-<br>
-<br>
-<img src="https://wakatime.com/share/@DevJordan/13d54c82-57d9-4fab-bdeb-0229688388c7.svg" height="600px" align="center">
-    
-<br>
-<br>
-    
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-    
-<br>
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username -->
-<br>
-<div class="stats" align="center">
-
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanrafaell&hide=stars&count_private=true&show_icons=true&theme=algolia&outrun=20)
-
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?jordanrafael=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanrafaell&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61181764/234648176-b3881d6a-445b-4ce4-ade7-1cb339ad06a3.gif" alt="Coding gif" width="300px"/>
+</p>
 
 ---
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://bit.ly/3L1TPbd" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
-    </a>
-    <a href="mailto:jordanrafaelflorencio@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
-<!-- End Footer -->
 
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->..
+### 👋 Sobre mim
+
+Sou um desenvolvedor apaixonado por transformar ideias em interfaces funcionais e bonitas.  
+Especializando em **Front-end** e evoluindo para **Full-Stack**, com foco em automações e experiências que impactam.  
+
+💡 Acredito que a tecnologia **muda vidas** — e é isso que me move.  
+🎨 Nas horas vagas? Curto desenhar, criar poesias e soltar a mente no **Canva & Figma**.
+
+---
+
+### 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+  <!-- Linguagens e Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+</div>
+
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordanrafaell&show_icons=true&theme=algolia&hide_title=true&hide=stars&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanrafaell&layout=compact&theme=algolia&hide_title=true" height="150"/>
+</div>
+
+---
+
+### 🐍 Snake Dev Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jordanrafaell/jordanrafaell/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:jordanrafaelflorencio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://bit.ly/3L1TPbd" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://wakatime.com/share/@DevJordan/13d54c82-57d9-4fab-bdeb-0229688388c7.svg" height="300px" align="center">
+</p>
+
+<p align="center">
+  💜 Feito com dedicação e café por Jordan Rafael
+</p>
