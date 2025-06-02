@@ -1,30 +1,30 @@
 <h1 align="center" style="color:#8c00ff">👨🏿‍💻 Jordan Rafael</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61181764/234648176-b3881d6a-445b-4ce4-ade7-1cb339ad06a3.gif" alt="Coding gif" width="300px"/>
+<p>
+  <img src="https://user-images.githubusercontent.com/61181764/234648176-b3881d6a-445b-4ce4-ade7-1cb339ad06a3.gif" alt="Coding gif" height="300px"/>
 </p>
+
 
 ---
 
 ### 👋 Sobre mim
 
-Sou um desenvolvedor apaixonado por transformar ideias em interfaces funcionais e bonitas.  
-Especializando em **Front-end** e evoluindo para **Full-Stack**, com foco em automações e experiências que impactam.  
+Sou um desenvolvedor focado em transformar ideias em interfaces funcionais e eficientes.  
+Especializando em **Front-end** e evoluindo para **Full-Stack**, com foco em automações e experiências que geram impacto.  
 
-💡 Acredito que a tecnologia **muda vidas** — e é isso que me move.  
-🎨 Nas horas vagas? Curto desenhar, criar poesias e soltar a mente no **Canva & Figma**.
+💡 Acredito que a tecnologia transforma realidades — e é isso que me motiva.  
+Nos momentos livres, dedico tempo ao autodesenvolvimento e aprimoramento pessoal.
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologias
 
 <div align="center">
-  <!-- Linguagens e Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="40" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
@@ -32,16 +32,113 @@ Especializando em **Front-end** e evoluindo para **Full-Stack**, com foco em aut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
 </div>
 
+---
+
+### 🛠️ Ferramentas
+
+<div align="center">
+  <!-- Code & IDE -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+
+  <!-- UI/UX -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+
+  <!-- Code Formatter & Tools -->
+  <img src="https://prettier.io/icon.png" height="40" alt="Prettier" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint" />
+
+  <!-- Automatização & Extra -->
+  <img src="https://img.icons8.com/color/48/000000/notion.png" height="40" alt="Notion" />
+</div>
+
+
+---
+
+<details>
+  <summary>💡 Habilidades e Competências</summary>
+  <br/>
+  <ul>
+    <li>⚙️ Resolver problemas reais com soluções tecnológicas eficientes e escaláveis.</li>
+    <br/>
+    <li>🎯 Criar experiências digitais intuitivas, focadas no usuário final.</li>
+    <br/>
+    <li>🤖 Planejar e implementar automações que aumentam a produtividade.</li>
+    <br/>
+    <li>🤝 Trabalhar colaborativamente em equipes multidisciplinares.</li>
+    <br/>
+    <li>🚀 Adaptar-se rapidamente a novas ferramentas e metodologias.</li>
+  </ul>
+  <br/>
+</details>
+
+
+
+---
+<details>
+<summary>
+  📁 Projetos Recentes
+</summary>
+<br/>
+<div align="center">
+  <a href="https://wa.me/5511954378787?text=Quero+criar+um+chatbot" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/🤖%20Chatbot%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chatbot WhatsApp" /> 
+  </a>
+  <br/>
+  <p><strong>Bot inteligente</strong> para automação de atendimento e interações no WhatsApp.</p> 
+  <hr width="60%"/> 
+  
+  <br/>
+  <a href="https://portfolio-ten-pi-517mszirxj.vercel.app/" target="_blank" > 
+    <img align="center" src="https://img.shields.io/badge/🌐%20Portfólio%20Online-6f42c1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a> 
+  
+  <br/>
+  <p>Mostra meus <strong>projetos, habilidades</strong> e tecnologias que domino.</p>
+  
+  <hr width="60%"/> 
+  
+  <br/>
+  <img align="center" src="https://img.shields.io/badge/🖼️%20Gerador%20de%20Logos%20com%20IA-gray?style=for-the-badge&logo=code&logoColor=white" alt="Logo Generator AI" />
+  <p>Projeto em construção que utiliza <strong>Inteligência Artificial</strong> para gerar logos sob medida.</p>
+  
+  </div>
+</details>
+
+---
+
+### 🎯 Objetivos
+
+Procuro projetos desafiadores na área de criação de sites, aplicativos desktop e automações que impactem positivamente os negócios e a vida das pessoas.  
+
+Estou focado em entregar soluções que não apenas usem tecnologia, mas que resolvam problemas reais de forma prática e eficiente.
+
+---
+
+
+### 🔗 Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordan-rafael-474449328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-ten-pi-517mszirxj.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://wa.me/5511954378787" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://wa.me/5511954378787" target="_blank">   
+  <img src="https://img.shields.io/badge/Aberto%20a%20novos Projetos-Sim-brightgreen?style=for-the-badge" alt="Open for Projects" />
+  </a>
+</p>
 
 ---
 
@@ -50,7 +147,10 @@ Especializando em **Front-end** e evoluindo para **Full-Stack**, com foco em aut
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jordanrafaell&show_icons=true&theme=algolia&hide_title=true&hide=stars&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanrafaell&layout=compact&theme=algolia&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordanrafaell&theme=algolia" height="150"/>
+
 </div>
+
 
 ---
 
@@ -62,23 +162,6 @@ Especializando em **Front-end** e evoluindo para **Full-Stack**, com foco em aut
 
 ---
 
-### 📫 Contato
-
 <p align="center">
-  <a href="mailto:jordanrafaelflorencio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://bit.ly/3L1TPbd" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://wakatime.com/share/@DevJordan/13d54c82-57d9-4fab-bdeb-0229688388c7.svg" height="300px" align="center">
-</p>
-
-<p align="center">
-  💜 Feito com dedicação e café por Jordan Rafael
+  <img src="https://wakatime.com/share/@DevJordan/13d54c82-57d9-4fab-bdeb-0229688388c7.svg" height="400px" align="center" />
 </p>
