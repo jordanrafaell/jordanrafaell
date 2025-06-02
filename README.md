@@ -130,12 +130,12 @@ Estou focado em entregar soluções que não apenas usem tecnologia, mas que res
   <a href="https://portfolio-ten-pi-517mszirxj.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://wa.me/5511954378787" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5511954378787&text=Quero+criar+um+projeto&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <br/>
   <br/>
-  <a href="https://wa.me/5511954378787" target="_blank">   
+  <a href="https://api.whatsapp.com/send/?phone=5511954378787&text=Quero+criar+um+projeto&type=phone_number&app_absent=0" target="_blank">   
   <img src="https://img.shields.io/badge/Aberto%20a%20novos Projetos-Sim-brightgreen?style=for-the-badge" alt="Open for Projects" />
   </a>
 </p>
