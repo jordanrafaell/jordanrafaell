@@ -104,7 +104,9 @@ Nos momentos livres, dedico tempo ao autodesenvolvimento e aprimoramento pessoal
   <hr width="60%"/> 
   
   <br/>
+  <a href="https://logo-ai-five.vercel.app/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/🖼️%20Gerador%20de%20Logos%20com%20IA-gray?style=for-the-badge&logo=code&logoColor=white" alt="Logo Generator AI" />
+  <a/>
   <p>Projeto em construção que utiliza <strong>Inteligência Artificial</strong> para gerar logos sob medida.</p>
   
   </div>
