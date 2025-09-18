@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#8c00ff">👨🏿‍💻 Jordan Rafael</h1>
 
 <p>
-  <img src="https://user-images.githubusercontent.com/61181764/234648176-b3881d6a-445b-4ce4-ade7-1cb339ad06a3.gif" alt="Coding gif" height="300px"/>
+  <img src="https://i.postimg.cc/8sP2t5d5/video.gif" height="300" width="300"/>
 </p>
 
 
@@ -167,3 +167,4 @@ Estou focado em entregar soluções que não apenas usem tecnologia, mas que res
 </p>
 
 ---
+
