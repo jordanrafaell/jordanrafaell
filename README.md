@@ -150,7 +150,7 @@ Estou focado em entregar soluções que não apenas usem tecnologia, mas que res
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jordanrafaell&theme=dracula&hide_border=true&locale=pt_BR&short_numbers=true" alt="GitHub Streak" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanrafaell&layout=compact&theme=algolia&hide_title=true&langs_count=10&card_width=500&scale=2&hide=Swift,C,CMake,kotlin,Objective-C" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanrafaell&layout=compact&theme=algolia&hide_title=true&langs_count=10&card_width=400&scale=2&hide=Swift,C,CMake,kotlin,Objective-C" />
 </div>
 
 
@@ -163,6 +163,7 @@ Estou focado em entregar soluções que não apenas usem tecnologia, mas que res
 </p>
 
 ---
+
 
 
 
