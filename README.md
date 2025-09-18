@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#8c00ff">👨🏿‍💻 Jordan Rafael</h1>
 
-<p>
+<div align="center">
   <img src="https://i.postimg.cc/8sP2t5d5/video.gif" height="300" width="300"/>
-</p>
+</div>
 
 
 
@@ -167,4 +167,5 @@ Estou focado em entregar soluções que não apenas usem tecnologia, mas que res
 </p>
 
 ---
+
 
