@@ -53,6 +53,9 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB
     </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/303230/angular-icon-logo.svg" width="40" height="40"/><br>Angular
+    </td>
   </tr>
 </table>
 
@@ -240,4 +243,5 @@
 </p>
 
 ---
+
 
