@@ -108,9 +108,6 @@
       <img src="https://prettier.io/icon.png" width="40" height="40"/><br>Prettier
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40"/><br>ESLint
-    </td>
-    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/notion.png" width="40" height="40"/><br>Notion
     </td>
   </tr>
@@ -243,5 +240,6 @@
 </p>
 
 ---
+
 
 
