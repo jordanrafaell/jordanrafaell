@@ -131,9 +131,9 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>MySQL
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" width="40" height="40"/><br>Java
-    </td>
+    </td> -->
 <!--     <td align="center">
       <img src="https://img.icons8.com/color/48/c-sharp-logo-2.png" width="40" height="40" alt="c-sharp-logo-2"/><br>C#
     </td> -->
